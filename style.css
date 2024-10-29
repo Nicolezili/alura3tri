@@ -23,7 +23,7 @@ font-family: Bai Jamjuree;
 }
 <div class="cartao__conteudo__pergunta">
     <p><div class="cartao__conteudo__pergunta">
-    <p>O que é CSS?</p>
+    <p>O que é Mapa Mental?</p>
 </div>                        
 <div class="cartao__conteudo__resposta">
     <p>Diagramas que relacionam diferentes informações a uma fonte central. </p>
@@ -37,12 +37,13 @@ font-family: Bai Jamjuree;
 }
 <article class="cartao">
     <div class="cartao__conteudo">
-        <h3> Programação </h3>
+        <h3> Saúde </h3>
         <div class="cartao__conteudo__pergunta">
-            <p>O que é CSS?</p>
+            <p>O que é fisioterapia?</p>
         </div>                        
         <div class="cartao__conteudo__resposta">
-            <p>O CSS é uma linguagem de estilização.</p>
+            <p>Fisioterapia é uma ciência da saúde aplicada ao estudo, diagnóstico, 
+            prevenção e tratamento de disfunções cinéticas funcionais de órgãos e sistemas..</p>
         </div>
     </div>
 </article>
